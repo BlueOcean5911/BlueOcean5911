@@ -44,19 +44,5 @@
         <td style="width: 33.33%;"> DB - Linux / MySQL / PostgreSQL / Microsoft SQL Server / SQLite / MongoDB / Firebase / Supabase / Minio | Dev OPS - Git Action / Heroku Pipeline / Digital Ocean Pipeline / Vercel / Jira / Orchestration </td>
         <td style="width: 33.33%;"> DeFi | NFT marketplace | Trading Bot | Smart Contract | Cross-chain | Subgraph | Oracle Integration | DeFi protocols | Tokenomics | Dex | Cex | Radiswap | Uniswap | Sushiswap | Pancakeswap | Curve </td>
     </tr>
-</table> <br>
-<hr> <br>
-<h1 style="margin: auto; width: 80%;" align="center">Previous Works</h1>
-<!-- ROW 1 -->
-<div>
-    <a href="https://onthestage.com"> <img align="left" src="https://i.ibb.co/wc7wNMB/onthestage-cover.webp" alt="onthestage-cover" border="0" style="background-color: block; " width="300" height="200"/> </a>
-    <p>Project Name</p>
-    <p>OnTheStage</p>
-    <p>Tech Stack</p>
-    <p>Pixel-Perfect | Responsive | Tailwind CSS | HTML5</p>
-    <a href="https://gamerguides.com"> <img src="https://i.ibb.co/fMvMmGf/gamer-guides-cover.webp" alt="gamer-guides-cover" border="0" style="background-color: block; " /> </a>
-    <p>Project Name</p>
-    <p>Gamer Guides</p>
-    <p>Tech Stack</p>
-    <p>Vue | Vuex | Vite | Tailwind CSS | Node | Express | MongoDB</p>
-</div>
+</table>
+
