@@ -48,44 +48,16 @@
 <hr> <br>
 <h1 style="margin: auto; width: 80%;" align="center">Previous Works</h1>
 <!-- ROW 1 -->
-<table style="margin: auto; width: 80%;">
-    <thead align="center">
-        <tr>
-            <td style="width: 50%;">OnTheStage</td>
-            <td style="width: 50%;">Gamer Guides</td>
-        </tr>
-    </thead>
-    <tr>
-        <td style="width: 50%;">
-            <a href="https://onthestage.com"> <img src="https://i.ibb.co/wc7wNMB/onthestage-cover.webp" alt="onthestage-cover" border="0" style="background-color: block; " /> </a>
-        </td>
-        <td style="width: 50%;">
-            <a href="https://gamerguides.com"> <img src="https://i.ibb.co/fMvMmGf/gamer-guides-cover.webp" alt="gamer-guides-cover" border="0" style="background-color: block; " /> </a>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 50%;"> Pixel-Perfect | Responsive | Tailwind CSS | HTML5 </td>
-        <td style="width: 50%;"> Vue | Vuex | Vite | Tailwind CSS | Node | Express | MongoDB </td>
-    </tr>
-</table>
-<!-- ROW 2 -->
-<table style="margin: auto; width: 80%;">
-    <thead align="center">
-        <tr>
-            <td style="width: 50%;">Wheather Forecast</td>
-            <td style="width: 50%;">Reeffo</td>
-        </tr>
-    </thead>
-    <tr>
-        <td style="width: 50%;">
-            <a href="https://weather-forecast-james.netlify.app/"> <img src="https://i.ibb.co/k1NXJ1V/weather-forecast-1.webp" alt="onthestage-cover" border="0" style="background-color: block; " /> </a>
-        </td>
-        <td style="width: 50%;">
-            <a href="https://www.reeffo.com/"> <img src="https://i.ibb.co/FK4zYy4/reeffo-1.webp" alt="reeffo" border="0" style="background-color: block; " /> </a>
-        </td>
-    </tr>
-    <tr>
-        <td style="width: 50%;"> React(Typescript) | TailwindCSS | Redux/ReduxToolKit | API integration | Proxying </td>
-        <td style="width: 50%;"> React/Typescript | TailwindCSS | AWS Amplify | ReduxToolKit | react-i18n | Stripe | Log Rocket </td>
-    </tr>
-</table>
+<div>
+    <a href="https://onthestage.com"> <img align="left" src="https://i.ibb.co/wc7wNMB/onthestage-cover.webp" alt="onthestage-cover" border="0" style="background-color: block; " /> </a>
+    <p>Project Name</p>
+    <p>OnTheStage</p>
+    <p>Tech Stack</p>
+    <p>Pixel-Perfect | Responsive | Tailwind CSS | HTML5</p>
+
+    <a href="https://gamerguides.com"> <img src="https://i.ibb.co/fMvMmGf/gamer-guides-cover.webp" alt="gamer-guides-cover" border="0" style="background-color: block; " /> </a>
+    <p>Project Name</p>
+    <p>Gamer Guides</p>
+    <p>Tech Stack</p>
+    <p>Vue | Vuex | Vite | Tailwind CSS | Node | Express | MongoDB</p>
+</div>
